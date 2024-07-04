@@ -1,0 +1,8 @@
+Wine Quality dataset consists of various chemical properties of wine and a quality rating, making it suitable for predicting wine quality based on its chemical attributes. First  11 columns define physicochemical properties of wine and 12th column indicates the quality of the wine. You have to develop (i) Multiclass classification algorithm and (ii) Regression algorithm to maintain and considering the following properties:
+
+(i) Preprocessing technique
+(ii) Feature selection technique
+(iii) k-fold cross validation technique
+(iv) Spot-check of Linear, Non-linear machine and ensemble learning techniques
+(v) Parameter tunning of the selected algorithm(s)
+(vi) Report the performance of the selected algorithm according to performance matrix
